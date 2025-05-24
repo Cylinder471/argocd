@@ -30,4 +30,4 @@ Name of the folder represent name of the EKS Cluster (Except HelmCharts).
     └── root.yaml              # Root ArgoCD Application    
 ```
 
-Copyleft (c) by Denis Astahov.
+Copyleft (c) by Denis Astahov1.
